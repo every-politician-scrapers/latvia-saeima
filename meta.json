@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+      "name": "Latvia",
+      "id": "Q211"
+    },
+    "legislature": {
+      "id": "Q822919",
+      "member": "Q21191589",
+      "term": {
+        "id": "Q107440317",
+        "start": "2018-11-06"
+      }
+    },
+    "source": {
+        "url":   "http://titania.saeima.lv/personal/deputati/saeima13_depweb_public.nsf/deputies?OpenView&lang=EN&count=1000",
+        "title": "Members of the 13th Saeima",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/latvia-saeima"
+}
